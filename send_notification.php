@@ -24,7 +24,7 @@ try {
             'title' => 'Título de la Notificación',
             'body' => $randomMessage,
         ],
-        'topic' => 'prueba-conecta-mayor',
+        'topic' => 'conecta_mayor_2',
         'data' => [
             'title' => 'Título de la data',
             'body' => $randomMessage,
